@@ -1,4 +1,4 @@
-#PIN OUT
+## PIN OUT
 * Arduino DUE
     * 20 - SDA
     * 21 - SCL
