@@ -1,0 +1,7 @@
+#PIN OUT
+* Arduino DUE
+    * 20 - SDA
+    * 21 - SCL
+* Arduino UNO
+    * A4 - SDA
+    * A5 - SCL
